@@ -32,6 +32,9 @@ export const metadata = {
     description: "石垣牛と沖縄県産熟成和牛を味わう、那覇・松山の鉄板焼き。",
     images: ["/images/official-08.webp"],
   },
+  verification: {
+    google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM",
+  },
   robots: { index: true, follow: true },
 };
 
